@@ -19,3 +19,8 @@ var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 
 var nameArray = [];
 nameArray.push("Jay", "Houn");
+
+var genericNumberArray = [];
+for (var i = 1; i < 11; i++){
+  genericNumberArray.push(i);
+}
