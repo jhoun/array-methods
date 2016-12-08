@@ -26,4 +26,4 @@ for (var i = 1; i < 11; i++){
 }
 
 var colors = ['Blue', 'Red', 'Yellow', 'Charlie'];
-colors.pop();
+var popResult = colors.pop();
