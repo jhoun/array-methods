@@ -75,3 +75,7 @@ var owesMoney = friends.slice(3);
 
 var monthNames = ['Jan', 'Feb', 'Mar', 'Apr'];
 var monthNameString = monthNames.toString();
+
+var favoriteColor = colors.indexOf('Red');
+
+var favoriteEvenNumber = mixedNums.indexOf(76);
