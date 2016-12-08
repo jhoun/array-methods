@@ -64,3 +64,5 @@ var randomThingsArray = genericNumberArray.concat(colors);
 var updatedOrders = orderQueue.concat({takeOut: 'wonton noodles'}, {takeOut: 'pho'});
 
 var sentence = scrambledWords.join(' ');
+
+var myFruits = fruitCollection.join(' + ');
