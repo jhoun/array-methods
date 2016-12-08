@@ -57,4 +57,4 @@ var brownOnly = ['brown', 'brownish', 'ad8fy7iuhj23nrsf', 9813, {}, undefined,  
 brownOnly.splice(1, 5, "brown", "brown", "brown");
 
 var orderedValues = [4, 5, 6, 7, 8, 9, 10];
-orderedValues.unshift(1, 2, 3);
+var orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
