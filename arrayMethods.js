@@ -27,3 +27,6 @@ for (var i = 1; i < 11; i++){
 
 var colors = ['Blue', 'Red', 'Yellow', 'Charlie'];
 var popResult = colors.pop();
+
+var scrambledWords = ['win', 'the', 'for', 'burritos'];
+scrambledWords.reverse();
