@@ -45,3 +45,7 @@ mixedWords.sort();
 
 var fruitCollection = ['Apple', 'Scissors', 'Pug', 'Lady Bug', 'Banana', 'Pear'];
 var notFruit = fruitCollection.splice(1, 3);
+
+var gemBox = ['Ruby', 'Diamond', 'Diamond', 'Emerald', 'Moonstone', 'Pizza', 'Sneaker', 'Sapphire', 'Baby', 'Jeans', 'Soda Can', 'Boat'];
+gemBox.splice(5, 2);
+gemBox.splice(6);
