@@ -49,3 +49,6 @@ var notFruit = fruitCollection.splice(1, 3);
 var gemBox = ['Ruby', 'Diamond', 'Diamond', 'Emerald', 'Moonstone', 'Pizza', 'Sneaker', 'Sapphire', 'Baby', 'Jeans', 'Soda Can', 'Boat'];
 gemBox.splice(5, 2);
 gemBox.splice(6);
+
+var upToTen = [1, 2, 9, 10];
+upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
