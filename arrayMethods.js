@@ -66,3 +66,7 @@ var updatedOrders = orderQueue.concat({takeOut: 'wonton noodles'}, {takeOut: 'ph
 var sentence = scrambledWords.join(' ');
 
 var myFruits = fruitCollection.join(' + ');
+
+var friends = ['Todd', 'Jacoby', 'Miko', 'Joseph', 'Kevin', 'Todd C.'];
+
+var favoriteFriends = friends.slice(1, 3);
