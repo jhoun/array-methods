@@ -52,3 +52,6 @@ gemBox.splice(6);
 
 var upToTen = [1, 2, 9, 10];
 upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
+
+var brownOnly = ['brown', 'brownish', 'ad8fy7iuhj23nrsf', 9813, {}, undefined,  'brown'];
+brownOnly.splice(1, 5, "brown", "brown", "brown");
