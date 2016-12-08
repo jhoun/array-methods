@@ -55,3 +55,6 @@ upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8);
 
 var brownOnly = ['brown', 'brownish', 'ad8fy7iuhj23nrsf', 9813, {}, undefined,  'brown'];
 brownOnly.splice(1, 5, "brown", "brown", "brown");
+
+var orderedValues = [4, 5, 6, 7, 8, 9, 10];
+orderedValues.unshift(1, 2, 3);
