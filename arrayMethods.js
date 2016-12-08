@@ -36,3 +36,6 @@ phoneNumber.reverse();
 
 var orderQueue = [{ takeOut: 'Ice Cream' }, { takeOut: 'Medium Salad'}, { takeOut: 'Burger'}];
 var nextOrder = orderQueue.shift();
+
+var mixedNums = [5, 81, 40, 4, 805, 10, 76, 21, 3, 2, 7, 1, 7];
+mixedNums.sort();
