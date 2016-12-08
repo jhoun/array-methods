@@ -24,3 +24,6 @@ var genericNumberArray = [];
 for (var i = 1; i < 11; i++){
   genericNumberArray.push(i);
 }
+
+var colors = ['Blue', 'Red', 'Yellow', 'Charlie'];
+colors.pop();
