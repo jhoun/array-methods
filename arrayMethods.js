@@ -42,3 +42,6 @@ mixedNums.sort();
 
 var mixedWords = ['Dont', 'You', 'Forget', 'About', 'Me'];
 mixedWords.sort();
+
+var fruitCollection = ['Apple', 'Scissors', 'Pug', 'Lady Bug', 'Banana', 'Pear'];
+fruitCollection.splice(1, 3);
